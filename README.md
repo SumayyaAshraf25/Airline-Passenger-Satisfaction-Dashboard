@@ -55,8 +55,10 @@ This project analyzes airline passenger satisfaction data to identify factors in
 - Delay Impact, Class-wise, and Travel Type Analysis
 
 ## Files Included
-- Airline_Passenger_Satisfaction.pbix
-- Dataset.xlsx
+- mini project.pbix
+- Raw Dataset.xlsx
+- dashboard screenshorts
+- process doc
   
 
 ## Author
